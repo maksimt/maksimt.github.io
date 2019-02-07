@@ -3,11 +3,10 @@ layout: post
 title: Picking a good PhD Thesis
 modified: 11/17/2017, 10:00:00
 tags: [phd, thoughts]
-comments: false
 category: blog
 ---
 
-![Picture](images/four_features_phd.jpeg)
+![Picture](../../images/four_features_phd.jpeg)
 
 Recently I gave a short talk to first-year PhD students in RPI's computer science department. The talk was supposed to be about my own research, but since I only had a short amount of time I didn't want to get into the details. I wanted to frame the talk in a way that would be interesting and have concrete take-aways for the first years. I decided to try and define what makes a good research topic for a PhD, and use myself as a case study of bad and good choices.
 

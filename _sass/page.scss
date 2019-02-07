@@ -14,14 +14,14 @@ body {
 
 .navigation-wrapper {
 	@include container;
-	padding: 2em 0 1em;
+	padding: 1em 0 0em;
 	font-family: $heading-font;
 	font-weight: 700;
 	text-transform: uppercase;
 	@include clearfix;
-	border-bottom-style: solid;
+	border-bottom-style: dashed;
 	border-bottom-color: $highlightcolor;
-	border-bottom-width: .5em;
+	border-bottom-width: .2em;
 }
 
 /* Site name */
@@ -50,7 +50,6 @@ body {
 	@include grid(12,10);
 	@include prefix(12,1);
 	@include suffix(12,1);
-	margin-bottom: 1em;
 	float: none;
 	display: block;
 	@media #{$small} {
@@ -226,9 +225,6 @@ $button-size: 1.5rem;
 	@include clearfix;
 	clear: both;
 	padding-top: 2em;
-	border-top-width: 2em;
-	border-top-style: solid;
-	border-top-color: $lowlightcolor;
 	h1 {
 		margin-top: 0;
 	}
