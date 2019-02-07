@@ -1,14 +1,23 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "About"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SDE at A'Air. Formerly FSD at Bloomberg. Graduated PhD RPI'18; BA Bard'11. Both in computer science. I studied topic modeling, non-negative matrix factorization, and privacy in distributed machine learning.
+
+I'm happy to be done with grad school. Work is pretty fun and it's nice to have the ability to context switch and work on small projects and just enjoy the world.
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- [Empirical methods for estimating privacy](https://github.com/maksimt/empirical_privacy)
+
+## Currently Reading
+
+- Crucial Conversations
+- Clean Code
+
+#### Recomended Non-fiction
+
+- Influence: Science and Practice
+- The Millionaire Next Door
+- Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
