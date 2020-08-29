@@ -3,18 +3,22 @@ layout: page
 excerpt: "About"
 ---
 
-SDE at A'Air. Formerly FSD at Bloomberg. Graduated PhD RPI'18; BA Bard'11. Both in computer science. I studied topic modeling, non-negative matrix factorization, and privacy in distributed machine learning.
+SDE at Amazon Prime Air in Seattle. Formerly FSD at Bloomberg LP in NYC.
 
-I'm happy to be done with grad school. Work is pretty fun and it's nice to have the ability to context switch and work on small projects and just enjoy the world.
+Graduated with PhD from RPI in 2018; I studied topic modeling, non-negative matrix factorization, and privacy in distributed machine learning.
+
 
 #### Current Interests and Projects:
+- Aggregating sentiment about consumer electronics (WIP).
 - [Empirical methods for estimating privacy](https://github.com/maksimt/empirical_privacy)
 
 #### Currently Reading
-- Crucial Conversations
-- Clean Code
+- Domain Driven Design
+- The Minto Pyramid Principle: Logic in Writing
 
 #### Recomended Non-fiction
+- Crucial Conversations
+- Clean Code
 - Influence: Science and Practice
 - The Millionaire Next Door
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
