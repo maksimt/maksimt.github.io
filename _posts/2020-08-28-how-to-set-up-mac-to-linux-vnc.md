@@ -1,3 +1,13 @@
+---
+layout: post
+title: How to set up VNC from macOS to Linux
+modified: 08/28/2020
+tags: [linux,vnc]
+comments: false
+category: blog
+---
+
+
 Setting up a macOS -> Linux VNC is useful for programming.
 You can run your editor directly on the Linux machine that will end up running your code.
 The build toolchains on Linux are more robust than on macOS.
